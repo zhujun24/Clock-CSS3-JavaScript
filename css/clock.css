@@ -24,7 +24,6 @@ h2{
     border-radius: 250px;
 }
 #clock div{
-    transform-origin:50% 107%;
     position: absolute;
 }
 #hour{
