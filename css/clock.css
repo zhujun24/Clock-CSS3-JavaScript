@@ -32,7 +32,7 @@ h2{
     background-color: black;
     left: 246px;
     top: 99px;
-    -webkit-transform-origin:50% 109%;
+    transform-origin:50% 109%;
 }
 #min{
     height: 160px;
@@ -40,7 +40,7 @@ h2{
     background-color: blue;
     left: 247px;
     top: 77px;
-    -webkit-transform-origin:50% 108%;
+    transform-origin:50% 108%;
 }
 #sec{
     height: 190px;
@@ -48,5 +48,5 @@ h2{
     background-color: red;
     left: 248px;
     top: 47px;
-    -webkit-transform-origin:50% 107%;
+    transform-origin:50% 107%;
 }
